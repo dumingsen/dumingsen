@@ -1,5 +1,5 @@
 ### Hi there 👋
- I’m Du Mingsen. 
+ I’m Du Mingsen, and I am currently pursuing a Ph.D. degree. I am interested in data mining, artificial intelligence, machine learning, time series analysis (classification, prediction, anomaly detection, generation, imputation), large language models, interpretability, spatio-temporal data analysis, biomedical signal processing, blood pressure estimation, and more.
 <!--
 **dumingsen/dumingsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
