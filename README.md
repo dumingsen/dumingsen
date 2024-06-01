@@ -1,12 +1,13 @@
 ### Hi there 👋
-<div align="center">
+
  I’m Du Mingsen, and I am currently pursuing a Ph.D. degree. I am interested in data mining, artificial intelligence, machine learning, time series analysis (classification, prediction, anomaly detection, generation, imputation), large language models, interpretability, spatio-temporal data analysis, biomedical signal processing, blood pressure estimation, and more.
 
+<div align="center">
 <!--[![Hello, I'm mingsendu!](assets/header.gif)](https://github.com/mingsendu)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).>
 -->
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dumingsen1999@gmail.com?subject=Hello%20dumingsen,%20From%20Github)
-</div>
+
 
  ## 🏆 My Stats:
 
