@@ -21,6 +21,8 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
 
 <a href="https://info.flagcounter.com/wLh7"><img src="https://s01.flagcounter.com/map/wLh7/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
+<a href="https://info.flagcounter.com/CcTJ"><img src="https://s01.flagcounter.com/count2/CcTJ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_30/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
 <!--
 **dumingsen/dumingsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
