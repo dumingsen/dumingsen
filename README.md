@@ -1,6 +1,7 @@
 ### Hi there 👋
 
- I’m [Du Mingsen](https://dumingsen.github.io/), and I am currently pursuing a Ph.D. degree. # Research Interests
+ I’m [Du Mingsen](https://dumingsen.github.io/), and I am currently pursuing a Ph.D. degree. 
+# Research Interests
 
 ## Data Mining and Artificial Intelligence
 - Data Mining
