@@ -1,6 +1,34 @@
 ### Hi there 👋
 
- I’m [Du Mingsen](https://dumingsen.github.io/), and I am currently pursuing a Ph.D. degree. I am interested in data mining, artificial intelligence, machine learning, time series analysis (classification, prediction, anomaly detection, generation, imputation), large language models, interpretability, spatio-temporal data analysis, biomedical signal processing, blood pressure estimation, and more.
+ I’m [Du Mingsen](https://dumingsen.github.io/), and I am currently pursuing a Ph.D. degree. # Research Interests
+
+## Data Mining and Artificial Intelligence
+- Data Mining
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Graph Neural Networks (GNNs)
+- Interpretability in AI
+
+## Time Series and Spatiotemporal Data Analysis
+- Time Series Analysis
+  - Classification
+  - Prediction
+  - Anomaly Detection
+- Spatiotemporal Data Analysis
+- Biomedical Signals
+  - Human Activity Recognition
+  - Sleep Stage Classification
+  - Blood Pressure Estimation
+- Industrial Data Analysis
+
+## Natural Language Processing and Knowledge Representation
+- Short Text Classification
+- Large Model Question Answering Systems
+- Knowledge Graphs
+
+## Medical Imaging
+- Medical Image Analysis
+
 
 <div align="center">
 <!--[![Hello, I'm mingsendu!](assets/header.gif)](https://github.com/mingsendu)
