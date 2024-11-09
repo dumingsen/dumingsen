@@ -1,16 +1,16 @@
 ### Hi there 👋
 
  I’m [Du Mingsen](https://dumingsen.github.io/), and I am currently pursuing a Ph.D. degree. 
-# Research Interests
+## Research Interests
 
-## Data Mining and Artificial Intelligence
+### Data Mining and Artificial Intelligence
 - Data Mining
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
 - Graph Neural Networks (GNNs)
 - Interpretability in AI
 
-## Time Series and Spatiotemporal Data Analysis
+### Time Series and Spatiotemporal Data Analysis
 - Time Series Analysis
   - Classification
   - Prediction
@@ -22,12 +22,12 @@
   - Blood Pressure Estimation
 - Industrial Data Analysis
 
-## Natural Language Processing and Knowledge Representation
+### Natural Language Processing and Knowledge Representation
 - Short Text Classification
 - Large Model Question Answering Systems
 - Knowledge Graphs
 
-## Medical Imaging
+### Medical Imaging
 - Medical Image Analysis
 
 
