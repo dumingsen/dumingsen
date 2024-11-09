@@ -11,15 +11,9 @@
 - Interpretability in AI
 
 ### Time Series and Spatiotemporal Data Analysis
-- Time Series Analysis
-  - Classification
-  - Prediction
-  - Anomaly Detection
+- Time Series Analysis  - Classification  - Prediction  - Anomaly Detection
 - Spatiotemporal Data Analysis
-- Biomedical Signals
-  - Human Activity Recognition
-  - Sleep Stage Classification
-  - Blood Pressure Estimation
+- Biomedical Signals  - Human Activity Recognition  - Sleep Stage Classification  - Blood Pressure Estimation
 - Industrial Data Analysis
 
 ### Natural Language Processing and Knowledge Representation
