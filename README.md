@@ -4,7 +4,7 @@
 ## Research Interests
 
 ### Data Mining and Artificial Intelligence
-- Data Mining- Artificial Intelligence (AI)- Machine Learning (ML)- Graph Neural Networks (GNNs)- Interpretability in AI
+- Data Mining - Artificial Intelligence (AI) - Machine Learning (ML) - Graph Neural Networks (GNNs) - Interpretability in AI
 
 ### Time Series and Spatiotemporal Data Analysis
 - Time Series Analysis
