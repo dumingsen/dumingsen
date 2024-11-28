@@ -45,13 +45,9 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 🎮 When I'm AFK:
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
-
-## 🎮 When I'm AFK:
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
-![Photography](https://img.shields.io/badge/Photography-%23000000.svg?style=for-the-badge&logo=camera&logoColor=white) &nbsp;
-![Overwatch](https://upload.wikimedia.org/wikipedia/commons/e/e7/Overwatch_logo_2016.svg) &nbsp;
+![Photography](https://img.shields.io/badge/Photography-%23000000.svg?style=for-the-badge&logo=photo&logoColor=white) &nbsp;
+![Overwatch](https://img.shields.io/badge/Overwatch-%23000000.svg?style=for-the-badge&logo=overwatch&logoColor=white) &nbsp;
 ![Tennis](https://img.shields.io/badge/Tennis-%23000000.svg?style=for-the-badge&logo=tennis&logoColor=white)
-
 
 
 <a href="https://info.flagcounter.com/wLh7"><img src="https://s01.flagcounter.com/map/wLh7/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
