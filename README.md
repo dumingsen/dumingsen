@@ -49,10 +49,14 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ## 🎮 When I'm AFK:
 
 
+<div align="center">
+
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
 ![Photography](https://img.shields.io/badge/Photography-%23000000.svg?style=for-the-badge&logo=photo&logoColor=white) &nbsp;
 ![Overwatch](https://img.shields.io/badge/Overwatch-%23000000.svg?style=for-the-badge&logo=overwatch&logoColor=white) &nbsp;
 ![Tennis](https://img.shields.io/badge/Tennis-%23000000.svg?style=for-the-badge&logo=tennis&logoColor=white)
+
+</div>
 
 
 <div align="center">
