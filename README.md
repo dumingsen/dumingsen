@@ -2,18 +2,17 @@
 
  I’m [Du Mingsen](https://dumingsen.github.io/), and I am currently pursuing a Ph.D. degree. 
  
- 
  <div style="text-align: center;">
-    <p><strong></strong></p>
     <img src="tree.JPG" width="50%">
 </div>
 
 <div style="position: relative; text-align: center;">
     <img src="cable11.JPG" width="50%">
     <p style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); color: white; font-size: 20px;">
-        我的摄影作品
+        这里是覆盖在图片上的文字
     </p>
 </div>
+
 
 ## Research Interests
 
