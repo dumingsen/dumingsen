@@ -41,7 +41,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
  ## 🏆 My Stats:
 
-<p>
+<p align="center">
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dumingsen&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumingsen&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
