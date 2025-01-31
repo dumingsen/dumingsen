@@ -10,25 +10,22 @@
 
 ### Data Mining and Artificial Intelligence
 - Data Mining
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Graph Neural Networks (GNNs)
+- Graph Neural Network
 - Interpretability in AI
 
 ### Time Series and Spatiotemporal Data Analysis
 - Time Series Analysis  - Classification  - Prediction  - Anomaly Detection
 - Spatiotemporal Data Analysis
-- Biomedical Signals  - Human Activity Recognition  - Sleep Stage Classification  - Blood Pressure Estimation
+- Biomedical Signal  - Human Activity Recognition  - Sleep Stage Classification  - Blood Pressure Estimation
 - Industrial Data Analysis
 
 ### Natural Language Processing and Knowledge Representation
 - Short Text Classification
-- Large Model Question Answering Systems
-- Knowledge Graphs
+- Large Language Model
+- Knowledge Graph
 
 ### Medical Imaging
 - Medical Image Analysis
-
 
 ## Contact
 <div align="center">
