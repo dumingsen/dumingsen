@@ -4,7 +4,7 @@
     <img src="tree.JPG" width="60%">
 </div>
 
- I’m [Du Mingsen](https://dumingsen.github.io/), and I am currently pursuing a Ph.D. degree. 
+ I’m [Du Mingsen](https://dumingsen.github.io/). 
 
 ## Research Interests
 
@@ -62,7 +62,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 <a href="https://info.flagcounter.com/CcTJ"><img src="https://s01.flagcounter.com/count2/CcTJ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_30/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
 
-<!--
+<!-- #, and I am currently pursuing a Ph.D. degree. 
 **dumingsen/dumingsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
