@@ -11,18 +11,11 @@
 ### Data Mining and Artificial Intelligence
 - Data Mining
 - Graph Neural Network
-- Interpretability in AI
 
 ### Time Series and Spatiotemporal Data Analysis
 - Time Series Analysis  - Classification  - Prediction  - Anomaly Detection
 - Spatiotemporal Data Analysis
-- Biomedical Signal  - Human Activity Recognition
-- Industrial Data Analysis
 
-### Natural Language Processing and Knowledge Representation
-- Short Text Classification
-- Large Language Model
-- Knowledge Graph
 
 ## Contact
 <div align="center">
@@ -71,5 +64,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...- Biomedical Signal  - Human Activity Recognition
+- Industrial Data Analysis
+
+### Natural Language Processing and Knowledge Representation
+- Short Text Classification
+- Large Language Model
+- Knowledge Graph
 -->
